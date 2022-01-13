@@ -1,0 +1,73 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * interstate:
+ *   - http://typekit.com/eulas/00000000000000003b9ae7f4
+ *   - http://typekit.com/eulas/00000000000000003b9ae7f5
+ *   - http://typekit.com/eulas/00000000000000003b9ae7f6
+ *   - http://typekit.com/eulas/00000000000000003b9ae7f7
+ *   - http://typekit.com/eulas/00000000000000003b9ae7f8
+ *   - http://typekit.com/eulas/00000000000000003b9ae7f9
+ * interstate-condensed:
+ *   - http://typekit.com/eulas/00000000000000003b9ae80d
+ *   - http://typekit.com/eulas/00000000000000003b9ae811
+ *
+ * © 2009-2021 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-08-09 17:13:09 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"interstate";
+src:url("../l_3") format("woff2"),url("../d") format("woff"),url("../a_5") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;
+}
+
+@font-face {
+font-family:"interstate";
+src:url("../l") format("woff2"),url("../d_3") format("woff"),url("../a_4") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;
+}
+
+@font-face {
+font-family:"interstate";
+src:url("../l_6") format("woff2"),url("../d_4") format("woff"),url("../a_7") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;
+}
+
+@font-face {
+font-family:"interstate";
+src:url("../l_1") format("woff2"),url("../d_1") format("woff"),url("../a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;
+}
+
+@font-face {
+font-family:"interstate";
+src:url("../l_5") format("woff2"),url("../d_7") format("woff"),url("../a_2") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"interstate";
+src:url("../l_4") format("woff2"),url("../d_2") format("woff"),url("../a_6") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;
+}
+
+@font-face {
+font-family:"interstate-condensed";
+src:url("../l_7") format("woff2"),url("../d_5") format("woff"),url("../a_3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;
+}
+
+@font-face {
+font-family:"interstate-condensed";
+src:url("../l_2") format("woff2"),url("../d_6") format("woff"),url("../a_1") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;
+}
+
+.tk-interstate { font-family: "interstate",sans-serif; }
+.tk-interstate-condensed { font-family: "interstate-condensed",sans-serif; }

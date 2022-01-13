@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/img_business_number</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Circular-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-750.000000, -2500.000000)">
+        <g id="assets/img_business_number" transform="translate(750.000000, 2500.000000)">
+            <circle id="background" fill="#353167" cx="100" cy="100" r="100"></circle>
+            <g id="Group" transform="translate(45.000000, 45.000000)">
+                <polygon id="Fill-2271" fill="#EBEAF4" points="41.25 96.25 6.875 96.25 6.875 13.75 41.25 13.75"></polygon>
+                <polygon id="Fill-2272" fill="#FFFFFF" points="103.125 96.25 41.25 96.25 41.25 0 103.125 0"></polygon>
+                <polygon id="Fill-2273" fill="#21B2D1" points="20.625 27.5 13.75 27.5 13.75 20.625 20.625 20.625"></polygon>
+                <polygon id="Fill-2274" fill="#40C9E7" points="68.75 72.1875 51.5625 72.1875 51.5625 65.3125 68.75 65.3125"></polygon>
+                <polygon id="Fill-2275" fill="#40C9E7" points="92.8125 72.1875 75.625 72.1875 75.625 65.3125 92.8125 65.3125"></polygon>
+                <polygon id="Fill-2276" fill="#40C9E7" points="68.75 58.4375 51.5625 58.4375 51.5625 51.5625 68.75 51.5625"></polygon>
+                <polygon id="Fill-2277" fill="#40C9E7" points="92.8125 58.4375 75.625 58.4375 75.625 51.5625 92.8125 51.5625"></polygon>
+                <polygon id="Fill-2278" fill="#40C9E7" points="68.75 44.6875 51.5625 44.6875 51.5625 37.8125 68.75 37.8125"></polygon>
+                <polygon id="Fill-2279" fill="#40C9E7" points="92.8125 44.6875 75.625 44.6875 75.625 37.8125 92.8125 37.8125"></polygon>
+                <polygon id="Fill-2280" fill="#40C9E7" points="68.75 30.9375 51.5625 30.9375 51.5625 24.0625 68.75 24.0625"></polygon>
+                <polygon id="Fill-2281" fill="#40C9E7" points="92.8125 30.9375 75.625 30.9375 75.625 24.0625 92.8125 24.0625"></polygon>
+                <polygon id="Fill-2282" fill="#40C9E7" points="68.75 17.1875 51.5625 17.1875 51.5625 10.3125 68.75 10.3125"></polygon>
+                <polygon id="Fill-2283" fill="#40C9E7" points="92.8125 17.1875 75.625 17.1875 75.625 10.3125 92.8125 10.3125"></polygon>
+                <polygon id="Fill-2284" fill="#21B2D1" points="34.375 27.5 27.5 27.5 27.5 20.625 34.375 20.625"></polygon>
+                <polygon id="Fill-2285" fill="#21B2D1" points="20.625 41.25 13.75 41.25 13.75 34.375 20.625 34.375"></polygon>
+                <polygon id="Fill-2286" fill="#21B2D1" points="34.375 41.25 27.5 41.25 27.5 34.375 34.375 34.375"></polygon>
+                <polygon id="Fill-2287" fill="#21B2D1" points="20.625 55 13.75 55 13.75 48.125 20.625 48.125"></polygon>
+                <polygon id="Fill-2288" fill="#21B2D1" points="34.375 55 27.5 55 27.5 48.125 34.375 48.125"></polygon>
+                <polygon id="Fill-2289" fill="#21B2D1" points="20.625 68.75 13.75 68.75 13.75 61.875 20.625 61.875"></polygon>
+                <polygon id="Fill-2290" fill="#21B2D1" points="34.375 68.75 27.5 68.75 27.5 61.875 34.375 61.875"></polygon>
+                <polygon id="Fill-2291" fill="#21B2D1" points="20.625 82.5 13.75 82.5 13.75 75.625 20.625 75.625"></polygon>
+                <polygon id="Fill-2292" fill="#21B2D1" points="34.375 82.5 27.5 82.5 27.5 75.625 34.375 75.625"></polygon>
+                <polygon id="Fill-2293" fill="#353167" points="82.5 96.25 61.875 96.25 61.875 82.5 82.5 82.5"></polygon>
+                <polygon id="Fill-2294" fill="#638A3A" points="110 110 0 110 0 103.125 110 103.125"></polygon>
+                <polygon id="Fill-2295" fill="#81B44C" points="0 103.125 6.875 96.25 103.125 96.25 110 103.125"></polygon>
+                <polygon id="Fill-2296" fill="#8B88AA" points="87.65625 82.5 56.71875 82.5 56.71875 77.34375 87.65625 77.34375"></polygon>
+                <polygon id="Fill-2297" fill="#353167" points="29.21875 96.25 18.90625 96.25 18.90625 87.65625 29.21875 87.65625"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

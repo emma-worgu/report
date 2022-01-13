@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/img_unlocked_padlock</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Freshness" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Freeform-Icons" transform="translate(-100.000000, 0.000000)">
+            <g id="assets/img_unlocked_padlock" transform="translate(100.000000, 0.000000)">
+                <path d="M90,0 C73.45875,0 60,13.45875 60,30 L60,52.5 L7.5,52.5 C3.358125,52.5 0,55.858125 0,60 L0,112.5 C0,116.6325 3.448125,120 7.5,120 L82.5,120 C86.641875,120 90,116.641875 90,112.5 L90,60 C90,55.858125 86.641875,52.5 82.5,52.5 L75,52.5 L75,30 C75,21.729375 81.729375,15 90,15 C98.270625,15 105,21.729375 105,30 L105,52.5 L120,52.5 L120,30 C120,13.45875 106.54125,0 90,0" id="Fill-6760" fill="#FACB1B"></path>
+                <path d="M45,52.5 L7.5,52.5 C3.358125,52.5 0,55.858125 0,60 L0,112.5 C0,114.718125 0.980625,116.68875 2.510625,118.06125 C3.838125,119.25375 5.574375,120 7.5,120 L45,120 L45,52.5 Z" id="Fill-6761" fill="#FBE158"></path>
+                <polygon id="Fill-6762" fill="#F3B606" points="0 71.25 90 71.25 90 63.75 0 63.75"></polygon>
+                <polygon id="Fill-6763" fill="#F3B606" points="0 90 90 90 90 82.5 0 82.5"></polygon>
+                <polygon id="Fill-6764" fill="#F3B606" points="0 108.75 90 108.75 90 101.25 0 101.25"></polygon>
+                <polygon id="Fill-6765" fill="#FACB1B" points="45 63.75 0 63.75 0 71.25 45 71.25"></polygon>
+                <polygon id="Fill-6766" fill="#FACB1B" points="45 82.5 0 82.5 0 90 45 90"></polygon>
+                <polygon id="Fill-6767" fill="#FACB1B" points="45 101.25 0 101.25 0 108.75 45 108.75"></polygon>
+                <path d="M52.5,80.625 C52.5,76.483125 49.141875,73.125 45,73.125 C40.858125,73.125 37.5,76.483125 37.5,80.625 C37.5,83.50875 39.14625,85.98375 41.533125,87.238125 L37.5,108.75 L52.5,108.75 L48.466875,87.238125 C50.85375,85.98375 52.5,83.50875 52.5,80.625" id="Fill-6768" fill="#9C6144"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="600px" height="2000px" viewBox="0 0 600 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/img_report</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="15.0547474%" y1="49.7500002%" x2="94.4360456%" y2="49.7500002%" id="linearGradient-1">
+            <stop stop-color="#552D88" offset="0%"></stop>
+            <stop stop-color="#6F2681" offset="28.6352041%"></stop>
+            <stop stop-color="#6F2681" offset="77.2580517%"></stop>
+            <stop stop-color="#3C56B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#003577" offset="0%"></stop>
+            <stop stop-color="#001939" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="20" y="35" width="125" height="35" rx="4"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="-3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-5" cx="50" cy="50" r="50"></circle>
+        <circle id="path-7" cx="50" cy="50" r="50"></circle>
+        <linearGradient x1="50%" y1="2.17235332%" x2="50%" y2="100%" id="linearGradient-9">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#CFD9DE" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-10" cx="13" cy="13" rx="13" ry="13"></ellipse>
+    </defs>
+    <g id="Freshness" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Report">
+            <g id="assets/img_report">
+                <rect id="Rectangle-165" fill="#F4F4F4" x="0" y="2.27373675e-13" width="600" height="2000"></rect>
+                <g id="Section-1" transform="translate(170.000000, 785.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="210" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="390" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="390" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="345" height="10"></rect>
+                </g>
+                <g id="Section-1" transform="translate(170.000000, 1445.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="210" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="390" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="390" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="345" height="10"></rect>
+                </g>
+                <g id="Section-3" transform="translate(170.000000, 630.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="9.5" width="120" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="45" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="65" width="170" height="10"></rect>
+                </g>
+                <g id="Section-3" transform="translate(170.000000, 1295.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="9.5" width="120" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="45" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="65" width="170" height="10"></rect>
+                </g>
+                <g id="Section-3" transform="translate(170.000000, 1795.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="9.5" width="120" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="45" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="65" width="170" height="10"></rect>
+                </g>
+                <g id="Section-2" transform="translate(170.000000, 940.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="145"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="170" height="50"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="105" width="170" height="50"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="45" width="170" height="50"></rect>
+                </g>
+                <g id="Section-2" transform="translate(170.000000, 1595.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="145"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="170" height="50"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="105" width="170" height="50"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="45" width="170" height="50"></rect>
+                </g>
+                <g id="Section-1" transform="translate(170.000000, 1140.000000)">
+                    <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                    <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                    <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="120" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="390" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="85" width="170" height="10"></rect>
+                    <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="65" width="170" height="10"></rect>
+                </g>
+                <g id="Report-Base" transform="translate(0.000000, 0.000000)">
+                    <g id="Top-Nav">
+                        <rect id="Rectangle-1" fill="#D8D8D8" x="0" y="0" width="600" height="50"></rect>
+                        <rect id="Header-Background" fill="url(#linearGradient-1)" x="0" y="0" width="600" height="50"></rect>
+                        <g id="Search-Bar" transform="translate(125.000000, 10.000000)">
+                            <rect fill="#FFFFFF" x="0" y="0" width="350" height="30" rx="4"></rect>
+                            <text id="Label" font-family="FontAwesome" font-size="14" font-weight="normal" fill="#6F2681">
+                                <tspan x="10" y="20"></tspan>
+                            </text>
+                        </g>
+                        <image id="BV-Mark" x="10" y="15" width="21.28" height="20" xlink:href="data:image/png;base64,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"></image>
+                        <g id="Hamburger" transform="translate(555.000000, 13.000000)" fill="#9B90DC">
+                            <rect transform="translate(15.000000, 2.500000) scale(1, -1) translate(-15.000000, -2.500000) " x="0" y="0" width="30" height="5" rx="2.5"></rect>
+                            <rect id="Rectangle-8-Copy" x="0" y="10" width="30" height="5" rx="2.5"></rect>
+                            <rect id="Rectangle-8-Copy-3" x="0" y="20" width="30" height="5" rx="2.5"></rect>
+                        </g>
+                    </g>
+                    <g id="Header" transform="translate(0.000000, 50.000000)">
+                        <rect id="Rectangle-7" fill="url(#linearGradient-2)" x="0" y="0" width="600" height="200"></rect>
+                        <g id="AlertMe" transform="translate(405.000000, 58.000000)">
+                            <rect id="Rectangle-9" fill="#405C80" x="0" y="0" width="165" height="85" rx="4"></rect>
+                            <g id="Rectangle-8">
+                                <use fill="#5CB85C" fill-rule="evenodd" xlink:href="#path-3"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            </g>
+                            <rect id="Rectangle-10" fill="#F0F0F0" x="40" y="47" width="85" height="10"></rect>
+                            <rect id="Rectangle-10" fill="#F0F0F0" x="15" y="12" width="134" height="10"></rect>
+                        </g>
+                        <g id="Mask-+-Group" transform="translate(20.000000, 50.000000)">
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="Mask" fill="#CFD9DE" xlink:href="#path-5"></use>
+                            <g id="Group-Copy" mask="url(#mask-6)">
+                                <g transform="translate(-5.000000, 15.000000)">
+                                    <path d="M81.2566875,26.2267505 C81.2566875,11.8899982 69.5444125,0.0146837342 55.0127934,0.0146837342 C40.5736529,0.0146837342 28.7688994,11.7452077 28.7688994,26.2267505 C28.7688994,35.1163857 33.2253626,42.9700202 40.0162826,47.7106597 L40.0162826,54.9352046 L70.0093043,54.9352046 L70.0093043,47.7106597 C76.8002243,42.9700202 81.2566875,35.1163857 81.2566875,26.2267505" id="Fill-615" fill="#F8B4B4"></path>
+                                    <path d="M28.7688994,26.2265009 C28.7688994,35.1161361 33.2253626,42.9697706 40.0162826,47.7104101 L40.0162826,54.934955 L55.0127934,54.934955 L55.0127934,0.0144340955 C40.5736529,0.0144340955 28.7688994,11.7449581 28.7688994,26.2265009" id="Fill-616" fill="#FBC8C8"></path>
+                                    <path d="M110,104.862951 L0.0255868881,104.862951 L2.7724478,72.4523544 C2.7724478,67.9938066 5.73175928,64.0769749 10.0232608,62.8512488 L40.0162826,54.9352046 L70.0093043,54.9352046 L100.002326,62.8512488 C104.293828,64.0769749 107.253139,67.9938066 107.253139,72.4523544 L110,104.862951 Z" id="Fill-617" fill="#3E3E3F"></path>
+                                    <polygon id="Fill-618" fill="#FFFFFF" points="40.0162826 54.9352046 70.0093043 54.9352046 55.0127934 104.862951"></polygon>
+                                    <polygon id="Fill-619" fill="#DF2C2C" points="55.0127934 54.9352046 47.514538 79.8990777 55.0127934 104.862951 62.5110489 79.8990777"></polygon>
+                                    <path d="M81.1692078,24.7409008 C76.3578273,25.7020099 71.2415176,26.2262512 65.9477493,26.2262512 C52.3459139,26.2262512 39.8788145,22.8636175 30.343533,17.2717099 C34.0176782,7.22125463 43.6854289,0.0141844568 55.0127934,0.0141844568 C68.9645474,0.0141844568 80.4268805,10.9808139 81.1692078,24.7409008" id="Fill-620" fill="#692E19"></path>
+                                    <polygon id="Fill-621" fill="#FA5655" points="47.514538 79.8988281 55.0127934 104.862701 55.0127934 54.934955"></polygon>
+                                    <path d="M55.0127934,0.0144340955 C43.6854289,0.0144340955 34.0176782,7.22150427 30.343533,17.2719596 C37.2519257,21.3210998 45.7099579,24.1819597 55.0127934,25.46011 L55.0127934,0.0144340955 Z" id="Fill-622" fill="#84462D"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-10" fill="#F0F0F0" x="130" y="105" width="190" height="15"></rect>
+                        <rect id="Rectangle-10" fill="#F0F0F0" x="130" y="75" width="145" height="25"></rect>
+                        <g id="Mask-+-Group" transform="translate(20.000000, 50.000000)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#CFD9DE" xlink:href="#path-7"></use>
+                            <g id="Group-Copy-2" mask="url(#mask-8)">
+                                <g transform="translate(-5.000000, 15.000000)">
+                                    <path d="M81.2566875,26.2267505 C81.2566875,11.8899982 69.5444125,0.0146837342 55.0127934,0.0146837342 C40.5736529,0.0146837342 28.7688994,11.7452077 28.7688994,26.2267505 C28.7688994,35.1163857 33.2253626,42.9700202 40.0162826,47.7106597 L40.0162826,54.9352046 L70.0093043,54.9352046 L70.0093043,47.7106597 C76.8002243,42.9700202 81.2566875,35.1163857 81.2566875,26.2267505" id="Fill-615" fill="#F8B4B4"></path>
+                                    <path d="M28.7688994,26.2265009 C28.7688994,35.1161361 33.2253626,42.9697706 40.0162826,47.7104101 L40.0162826,54.934955 L55.0127934,54.934955 L55.0127934,0.0144340955 C40.5736529,0.0144340955 28.7688994,11.7449581 28.7688994,26.2265009" id="Fill-616" fill="#FBC8C8"></path>
+                                    <path d="M110,104.862951 L0.0255868881,104.862951 L2.7724478,72.4523544 C2.7724478,67.9938066 5.73175928,64.0769749 10.0232608,62.8512488 L40.0162826,54.9352046 L70.0093043,54.9352046 L100.002326,62.8512488 C104.293828,64.0769749 107.253139,67.9938066 107.253139,72.4523544 L110,104.862951 Z" id="Fill-617" fill="#3E3E3F"></path>
+                                    <polygon id="Fill-618" fill="#FFFFFF" points="40.0162826 54.9352046 70.0093043 54.9352046 55.0127934 104.862951"></polygon>
+                                    <polygon id="Fill-619" fill="#DF2C2C" points="55.0127934 54.9352046 47.514538 79.8990777 55.0127934 104.862951 62.5110489 79.8990777"></polygon>
+                                    <path d="M81.1692078,24.7409008 C76.3578273,25.7020099 71.2415176,26.2262512 65.9477493,26.2262512 C52.3459139,26.2262512 39.8788145,22.8636175 30.343533,17.2717099 C34.0176782,7.22125463 43.6854289,0.0141844568 55.0127934,0.0141844568 C68.9645474,0.0141844568 80.4268805,10.9808139 81.1692078,24.7409008" id="Fill-620" fill="#692E19"></path>
+                                    <polygon id="Fill-621" fill="#FA5655" points="47.514538 79.8988281 55.0127934 104.862701 55.0127934 54.934955"></polygon>
+                                    <path d="M55.0127934,0.0144340955 C43.6854289,0.0144340955 34.0176782,7.22150427 30.343533,17.2719596 C37.2519257,21.3210998 45.7099579,24.1819597 55.0127934,25.46011 L55.0127934,0.0144340955 Z" id="Fill-622" fill="#84462D"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Sidenav" transform="translate(20.000000, 270.000000)">
+                        <rect id="Rectangle-10" fill="url(#linearGradient-9)" x="0" y="0" width="130" height="210"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="0" y="179" width="130" height="1"></rect>
+                        <g id="Mask-+-Group" transform="translate(10.000000, 10.000000)">
+                            <mask id="mask-11" fill="white">
+                                <use xlink:href="#path-10"></use>
+                            </mask>
+                            <use id="Mask" fill="#CFD9DE" xlink:href="#path-10"></use>
+                            <g id="Group-Copy-3" mask="url(#mask-11)">
+                                <g transform="translate(-1.300000, 3.900000)">
+                                    <path d="M21.1267387,6.81895513 C21.1267387,3.09139953 18.0815472,0.0038177709 14.3033263,0.0038177709 C10.5491498,0.0038177709 7.47991385,3.05375401 7.47991385,6.81895513 C7.47991385,9.13026029 8.63859426,11.1722053 10.4042335,12.4047715 L10.4042335,14.2831532 L18.2024191,14.2831532 L18.2024191,12.4047715 C19.9680583,11.1722053 21.1267387,9.13026029 21.1267387,6.81895513" id="Fill-615" fill="#F8B4B4"></path>
+                                    <path d="M7.47991385,6.81889023 C7.47991385,9.13019538 8.63859426,11.1721403 10.4042335,12.4047066 L10.4042335,14.2830883 L14.3033263,14.2830883 L14.3033263,0.00375286483 C10.5491498,0.00375286483 7.47991385,3.0536891 7.47991385,6.81889023" id="Fill-616" fill="#FBC8C8"></path>
+                                    <path d="M28.6,27.2643672 L0.0066525909,27.2643672 L0.720836427,18.8376121 C0.720836427,17.6783897 1.49025741,16.6600135 2.60604781,16.3413247 L10.4042335,14.2831532 L18.2024191,14.2831532 L26.0006048,16.3413247 C27.1163952,16.6600135 27.8858162,17.6783897 27.8858162,18.8376121 L28.6,27.2643672 Z" id="Fill-617" fill="#3E3E3F"></path>
+                                    <polygon id="Fill-618" fill="#FFFFFF" points="10.4042335 14.2831532 18.2024191 14.2831532 14.3033263 27.2643672"></polygon>
+                                    <polygon id="Fill-619" fill="#DF2C2C" points="14.3033263 14.2831532 12.3537799 20.7737602 14.3033263 27.2643672 16.2528727 20.7737602"></polygon>
+                                    <path d="M21.103994,6.4326342 C19.8530351,6.68252257 18.5227946,6.81882532 17.1464148,6.81882532 C13.6099376,6.81882532 10.3684918,5.94454056 7.88931859,4.49064459 C8.84459634,1.8775262 11.3582115,0.00368795876 14.3033263,0.00368795876 C17.9307823,0.00368795876 20.9109889,2.85501162 21.103994,6.4326342" id="Fill-620" fill="#692E19"></path>
+                                    <polygon id="Fill-621" fill="#FA5655" points="12.3537799 20.7736953 14.3033263 27.2643023 14.3033263 14.2830883"></polygon>
+                                    <path d="M14.3033263,0.00375286483 C11.3582115,0.00375286483 8.84459634,1.87759111 7.88931859,4.49070949 C9.68550069,5.54348595 11.884589,6.28730951 14.3033263,6.61962859 L14.3033263,0.00375286483 Z" id="Fill-622" fill="#84462D"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="45" y="13" width="75" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="10" y="50" width="110" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="10" y="70" width="110" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="10" y="90" width="110" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="10" y="110" width="110" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="10" y="130" width="110" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="10" y="150" width="110" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#F0F0F0" x="45" y="193" width="75" height="5"></rect>
+                        <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="190" width="20" height="10" rx="5"></rect>
+                        <rect id="Rectangle-10" fill="#A1ADB2" x="45" y="28" width="75" height="5"></rect>
+                    </g>
+                    <g id="Section-1" transform="translate(170.000000, 270.000000)">
+                        <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="95"></rect>
+                        <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                        <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="120" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="390" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="65" width="170" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="85" width="170" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="85" width="170" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="65" width="170" height="10"></rect>
+                    </g>
+                    <g id="Section-2" transform="translate(170.000000, 425.000000)">
+                        <rect id="Rectangle-10" fill="#FFFFFF" x="0" y="30" width="410" height="145"></rect>
+                        <path d="M410,12.5023733 L410,4.99525338 C410,2.23603796 407.761722,0 405.000665,0 L4.9993348,0 C2.23067643,0 0,2.23645112 0,4.99525338 L0,12.5023733 L0,30 L410,30 L410,12.5023733 Z" id="Rectangle-10" fill="#A1ADB2"></path>
+                        <rect id="Rectangle-10" fill="#F0F0F0" x="10" y="10" width="170" height="10"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="45" width="170" height="50"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="10" y="105" width="170" height="50"></rect>
+                        <rect id="Rectangle-10" fill="#CFD9DE" x="200" y="45" width="170" height="50"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

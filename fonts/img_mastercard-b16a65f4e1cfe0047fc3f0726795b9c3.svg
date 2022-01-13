@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="60px" viewBox="0 0 100 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/img_mastercard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Freshness" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Freeform-Icons" transform="translate(-710.000000, -745.000000)">
+            <g id="assets/img_mastercard" transform="translate(710.000000, 745.000000)">
+                <rect id="Rectangle" fill="#F0EFEB" x="0" y="0" width="100" height="60" rx="4"></rect>
+                <path d="M56.1286209,30.4854021 C56.1286209,41.2636578 47.3919703,50 36.6140231,50 C25.8357674,50 17.0985,41.2636578 17.0985,30.4854021 C17.0985,19.7074549 25.8357674,10.9701875 36.6140231,10.9701875 C47.3919703,10.9701875 56.1286209,19.7074549 56.1286209,30.4854021" id="Fill-333" fill="#EA001B"></path>
+                <path d="M82.7701111,30.4851854 C82.7701111,41.263441 74.0334605,49.9997832 63.2555133,49.9997832 C52.4772577,49.9997832 43.7399902,41.263441 43.7399902,30.4851854 C43.7399902,19.7072381 52.4772577,10.9699707 63.2555133,10.9699707 C74.0334605,10.9699707 82.7701111,19.7072381 82.7701111,30.4851854" id="Fill-333" fill="#F79E1C"></path>
+                <path d="M49.9346061,44.7470412 C53.7461287,41.1855465 56.1286209,36.1138901 56.1286209,30.4854021 C56.1286209,24.8569611 53.746032,19.7850377 49.9343741,16.2233277 C46.1226499,19.7850284 43.7399902,24.8568594 43.7399902,30.4851854 C43.7399902,36.1137866 46.1227466,41.1855338 49.934608,44.7470394 Z" id="Combined-Shape" fill="#FF5F01"></path>
+            </g>
+        </g>
+    </g>
+</svg>

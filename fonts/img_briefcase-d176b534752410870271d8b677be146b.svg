@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>jobsanded</title>
+    <desc>Created with Sketch.</desc>
+    <g id="jobsanded" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-12">
+            <circle id="background" fill="#353167" cx="20" cy="20" r="20"></circle>
+            <g id="assets/tos-briefcase" transform="translate(9.000000, 12.000000)">
+                <path d="M20.8916667,2.6 C21.39125,2.6 21.8,3.008 21.8,3.50666667 L21.8,15.2933333 C21.8,15.792 21.39125,16.2 20.8916667,16.2 L0.908333333,16.2 C0.40875,16.2 0,15.792 0,15.2933333 L0,3.50666667 C0,3.008 0.40875,2.6 0.908333333,2.6 L20.8916667,2.6 Z" id="Fill-2027" fill="#8E6134"></path>
+                <path d="M0.908483634,2.6 C0.408817635,2.6 0,3.01049729 0,3.51221621 L0,15.3710269 C0,15.6150448 0.0976619906,15.8362572 0.254375418,16 L13.6,2.6 L0.908483634,2.6 Z" id="Fill-2028" fill="#A97A45"></path>
+                <polygon id="Fill-2029" fill="#8E6134" points="15 2.8 13.1602999 2.8 12.2241773 1.4 9.57582272 1.4 8.64015214 2.8 6.8 2.8 8.60805909 0 13.1919409 0"></polygon>
+                <polygon id="Fill-2030" fill="#D4A263" points="5.4 16.2 3.6 16.2 3.6 2.6 5.4 2.6"></polygon>
+                <polygon id="Fill-2031" fill="#D4A263" points="18.2 16.2 16.4 16.2 16.4 2.6 18.2 2.6"></polygon>
+                <polygon id="Fill-2035" fill="#F4D0A1" points="5.4 10.7768459 5.4 2.6 3.6 2.6 3.6 12.6"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

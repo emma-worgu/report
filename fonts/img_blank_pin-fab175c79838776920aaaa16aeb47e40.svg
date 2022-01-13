@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="50px" height="70px" viewBox="0 0 50 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/img_blank_pin</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Freshness" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Freeform-Icons" transform="translate(-550.000000, -150.000000)" fill="#F0386B">
+            <path d="M575,150 C561.192708,150 550,161.77249 550,176.293778 C550,188.572418 567.875,212.202134 573.395833,219.206879 C573.791667,219.709639 574.380208,220.001127 575.001042,219.999997 C575.621875,219.999997 576.209375,219.708509 576.60625,219.205749 C582.127083,212.198745 600,188.571288 600,176.293778 C600,161.77249 588.807292,150 575,150" id="assets/img_blank_pin"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/specifications</title>
+    <g id="icon/specifications" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-11" transform="translate(5.000000, 3.000000)" stroke-width="2">
+            <path d="M15.7894737,3 L15.7894737,5.67888889 L15.7894737,5.67888889 L15.7894737,17.7777778 C15.7894737,19.005 14.7889802,20 13.5549824,20 L2.23449123,20 C1.00049345,20 0,19.005 0,17.7777778 L0,2.22222222 C0,0.995 1.00049345,0 2.23449123,0 L12.7894737,0 C14.4463279,-7.48448398e-16 15.7894737,1.34314575 15.7894737,3 Z" id="Stroke-1" stroke="#9327C7"></path>
+            <line x1="3.15789474" y1="14.2105263" x2="12.6315789" y2="14.2105263" id="Stroke-5" stroke="#FF4722"></line>
+            <line x1="3.15789474" y1="9.47368421" x2="12.6315789" y2="9.47368421" id="Stroke-7" stroke="#FF4722"></line>
+            <line x1="3.15789474" y1="4.73684211" x2="7.89473684" y2="4.73684211" id="Stroke-9" stroke="#FF4722"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="11px" viewBox="0 0 10 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>checkmark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="UI-Elements-Buttons-Copy" transform="translate(-530.000000, -2149.000000)" fill-rule="nonzero" stroke="#FF4724" stroke-width="2">
+            <g id="Select-Button" transform="translate(49.000000, 2115.000000)">
+                <g id="Selected" transform="translate(479.000000, 35.000000)">
+                    <polyline id="checkmark" points="3 6.17285156 5.00146484 8.56982422 10.6245117 0"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

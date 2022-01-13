@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>close_ico</title>
+    <desc>Created with Sketch.</desc>
+    <g id="close_ico" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="close" transform="translate(7.000000, 7.000000)" stroke="#81B44C" stroke-width="4">
+            <path d="M-2.09993219,7.89906781 L17.9000678,7.89906781" id="Line_4" transform="translate(7.900068, 7.899068) rotate(45.000000) translate(-7.900068, -7.899068) "></path>
+            <path d="M-2.10006781,7.89906781 L17.8999322,7.89906781" id="Line_5" transform="translate(7.899932, 7.899068) rotate(135.000000) translate(-7.899932, -7.899068) "></path>
+        </g>
+    </g>
+</svg>

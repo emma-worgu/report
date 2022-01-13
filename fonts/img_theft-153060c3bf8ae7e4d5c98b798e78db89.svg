@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/thefts</title>
+    <g id="icon/thefts" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Group-18" transform="translate(6.000000, 3.000000)" stroke-width="2">
+            <path d="M4.10087172,5.96693281 L4.04605199,4.46703226 C4.04605199,2.55219355 5.59824554,1 7.51308425,1 C9.42792295,1 10.9801165,2.55219355 10.9801165,4.46703226 C10.9801165,4.61495346 10.9801165,4.72589437 10.9801165,4.79985497" id="Stroke-3" stroke="#FF4722" transform="translate(7.513084, 3.483466) rotate(-15.000000) translate(-7.513084, -3.483466) "></path>
+            <line x1="6.9678" y1="12.0249021" x2="6.9678" y2="14.6388376" id="Stroke-5" stroke="#FF4722"></line>
+            <path d="M2.25806452,7.61747627 L11.6773548,7.61747627 C12.9242581,7.61747627 13.9354194,8.62818595 13.9354194,9.87554078 L13.9354194,17.0060569 C13.9354194,18.2529601 12.9242581,19.2641214 11.6773548,19.2641214 L2.25806452,19.2641214 C1.01070968,19.2641214 0,18.2529601 0,17.0060569 L0,9.87554078 C0,8.62818595 1.01070968,7.61747627 2.25806452,7.61747627 Z" id="Stroke-1" stroke="#8736C1"></path>
+        </g>
+    </g>
+</svg>

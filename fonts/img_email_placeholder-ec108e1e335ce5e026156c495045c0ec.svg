@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>assets/img_email_placeholder</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Circular-Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-750.000000, -1500.000000)">
+        <g id="assets/img_email_placeholder" transform="translate(750.000000, 1500.000000)">
+            <circle id="background" fill="#353167" cx="100" cy="100" r="100"></circle>
+            <g id="paper-airplane" transform="translate(45.000000, 51.000000)">
+                <polygon id="Fill-2338" fill="#8B88AA" points="45.8388906 84.8131544 34.3748281 96.2808737 34.3748281 79.0878912"></polygon>
+                <polygon id="Fill-2339" fill="#FFFFFF" points="110 0 72.1875 98 34.375 79.0877193 34.375 96.2807018 20.625 68.7719298 0 55.0175439"></polygon>
+                <polygon id="Fill-2340" fill="#EBEAF4" points="20.625 68.7719298 34.375 96.2807018 34.375 79.0877193 110 0"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

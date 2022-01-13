@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>business report_no circle</title>
+    <g id="business-report_no-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="assets/tos-briefcase-copy" transform="translate(1.000000, 7.000000)">
+            <path d="M57.5,7.2 C58.875,7.2 60,8.352 60,9.76 L60,43.04 C60,44.448 58.875,45.6 57.5,45.6 L2.5,45.6 C1.125,45.6 0,44.448 0,43.04 L0,9.76 C0,8.352 1.125,7.2 2.5,7.2 L57.5,7.2 Z" id="Fill-2027" fill="#8E6134"></path>
+            <path d="M2.40480962,7.2 C1.08216433,7.2 0,8.30282855 0,9.65073011 L0,41.5102216 C0,42.1657919 0.258517034,42.7600939 0.673346693,43.2 L36,7.2 L2.40480962,7.2 Z" id="Fill-2028" fill="#A97A45"></path>
+            <polygon id="Fill-2029" fill="#8E6134" points="40.8 7.2 35.9539606 7.2 33.4880767 3.6 26.5119233 3.6 24.04723 7.2 19.2 7.2 23.9626922 0 36.0373078 0"></polygon>
+            <polygon id="Fill-2030" fill="#D4A263" points="14.4 45.6 9.6 45.6 9.6 7.2 14.4 7.2"></polygon>
+            <polygon id="Fill-2031" fill="#D4A263" points="50.4 45.6 45.6 45.6 45.6 7.2 50.4 7.2"></polygon>
+            <polygon id="Fill-2035" fill="#F4D0A1" points="14.4 28.7868733 14.4 7.2 9.6 7.2 9.6 33.6"></polygon>
+        </g>
+    </g>
+</svg>

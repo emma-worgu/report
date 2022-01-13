@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="12px" viewBox="0 0 21 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ico_carret_down@3x</title>
+    <g id="ico_carret_down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="caret-down" fill="#272426" fill-rule="nonzero">
+            <path d="M1.42575251,0 L19.49699,0 C20.7471572,0 21.3722408,1.51003344 20.487291,2.39498328 L11.4551839,11.4341137 C10.9073579,11.9819398 10.0153846,11.9819398 9.46755853,11.4341137 L0.435451505,2.39498328 C-0.449498328,1.51003344 0.175585284,0 1.42575251,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
